@@ -1,0 +1,7 @@
+to turn it on
+
+bcdedit /set testsigning on
+
+to turn it off
+
+bcdedit /set testsigning off
